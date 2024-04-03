@@ -1,0 +1,1 @@
+export {Header} from '@/templates/user/components/header/header'
